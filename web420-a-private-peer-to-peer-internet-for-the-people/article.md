@@ -2,39 +2,45 @@
 
 ## Introduction
 
-<img src="lion.svg" width="300" align="left" style="margin: 0 1em 1em 0;">
+<img src="lion.svg" width="350" align="left" style="margin: 0 1em 1em 0;">
 
-With the release of DeCent-Messenger, the world's first Decentralized Web Application (DWA), Web420 is now available for experimentation as a usable prototype.
+With the release of <a href="https://github.com/futurehood/DeCent-Messenger">DeCent Messenger</a>, the world's first Decentralized Web Application (DWA), Web420 is now available for experimentation as a usable prototype.
 
 Web420 is a completely decentralized, peer-to-peer Internet that avoids all of the problems of the current Internet. There are no ads, there is no tracking, no data collection, no censorship, no surveillance, no propaganda, no external controls whatsoever. Web420 offers this experience by providing a platform where apps (DWAs) can ***scale infinitely without any cost to the developer*** because they don't require traditional hosting infrastructure. 
 
-Because there is no cost associated with operating DWAs, there is no *justification* for engaging in the aforementioned fuckeries. Because everything happening on Web420 happens on self-signaled, encrypted, P2P channels, there is no *opportunity* for engaging in the aforementioned fuckeries.
+Because there are no costs associated with operating DWAs, there is no *justification* for engaging in the aforementioned fuckeries. Because everything happening on Web420 happens on self-signaled, encrypted, P2P channels, there is no *opportunity* for engaging in the aforementioned fuckeries.
+
+This is the Internet humanity deserves.
 
 ## Overview
 
 <img src="web420-nu.svg" width="300" align="right">
 
-Web420 achieves this by relying on a software stack which provides users access through two key functionalities. Self-hosted (preferably, locally) DCNT servers offer users the ability to:
+Web420 achieves all of this by relying on a software stack which provides user access through two key functionalities. Self-hosted (preferably, locally) DCNT servers offer users the ability to:
 
 1. Host web app (DWA) source code locally, providing users complete control over the code that is executing in their browser to provide a given application experience, while also providing an SSL/TLS context which is required to gain access to some Javascript APIs, like WebRTC.
 2. Receive requests from remote DWAs and proxy them to DWAs running in the DCNT server-adjacent browser. This allows users to upgrade from the WebSocket connection being managed by the DCNT server, to a WebRTC connection, managed by the browser.
 
-Because the technology driving the experience is simple, reliant on Internet standards, and open-source, it can never be appropriated, corrupted, or compromised. It also just works with the rest of the Internet, out-of-the-box, users don't need anything extra aside from a DCNT server.
+Because the technology driving the experience is simple, reliant on Internet standards, and open-source, it can never be appropriated, corrupted, or compromised.
 
 ## Something Completely New
 
-Web420 differs from existing decentralized networks, like Tor, I2P, or Freenet.
+Web420 differs from existing decentralized overlay networks, like Freenet, I2p, or Tor.
 
-These networks 
+These networks focus on building a global network of interconnected nodes which serve as an overlay to the Internet. The common emphasis of all of these projects is anonymity, and then privacy through anonymity. Though it happens a bit differently on each, essentially all of these systems achieve anonymity by passing requests through the overlay network to obfuscate the connection metadata.
 
-Web420 differs from existing decentralized networks which focus on building a global network of interconnected nodes that collectively form a new Internet, like Tor, I2P, or Freenet.
+Web420 works differently, almost diametrically so. Instead of consisting (primarily) of a global network, Web420 is composed of infinite, smaller, ephemeral private networks that pop in and out of existence as needed. These networks are as big as required; they can exist between two devices, or two million devices. The can grow, shrink, disappear, and re-emerge. They originate in, and are accessed solely through web browsers, over WebRTC. DCNT servers don't connect to other DCNT servers at all. They listen for requests from DWAs and proxy them to relevant DWAs.
 
-These types of systems can be fantastic for anonymity, but the architecture compels your hardware to act as a routing node for other users by default. Web420 doesn't work this way. On Web420, the only connections your device will make are those that are required by a specific applications' functionality.
+In essence, this allows DCNT server users to turn an IP address or domain name into the modern equivalent of a ***phone number***.
 
-That being said, it is possible to build these types of networks ***on*** Web420.
+DCNT users can share their address with trusted contacts they intend to connect with, and then using DWAs, the two users can directly connect with each other in their browsers, unassisted by third parties and completely privately.
+
+There's no limit or restriction on what DWAs can do. Communications apps, social networks, microblogging, multiplayer gaming, file sharing, streaming services - all of these types of applications can easily be built on Web420 ***right now***.
+
+Furthermore, Web420 is accessible by everyone. It just works with the rest of the Internet. Users don't need to be running a personal DCNT server to connect with someone who is. The non-user can use a DWA to connect to another user's DCNT server without running their own instance. The resulting peer-to-peer connection is a private Web420 network.
 
 
-To clarify further, those types of decentralized networks can be built on Web420, however, there are also other ways to utilize the platform.
+
 
 ## A Future So Bright, It's Blazing 🔥
 
@@ -52,17 +58,4 @@ Web420 offers the promise of a pure Internet, rooted in genuine connection, that
 
 The project is still in the early stages, but things are moving fast with no intention of stopping until the work is done. The world needs this.
 
-If you'd like to help or support the work, <a href="{">get involved!</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
+If you'd like to get involved or support the work, <a href="https://github.com/futurehood/DeCent">help me!</a>
