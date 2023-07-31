@@ -4,7 +4,7 @@
 
 <img src="assets/lion.svg#play" width="350" align="left" style="margin: 0 1em 1em 0;">
 
-With the release of <a href="https://github.com/futurehood/DeCent-Messenger">DeCent Messenger</a>, the world's first Decentralized Web Application (DWA), Web420 is now available for experimentation as a usable prototype.
+With the early release of <a href="https://github.com/futurehood/DeCent-Messenger">DeCent Messenger</a>, the world's first Decentralized Web Application (DWA), Web420 is now available for experimentation as a usable prototype.
 
 Web420 is a completely decentralized, peer-to-peer Internet that avoids all of the problems of the current Internet. There are no ads, there is no tracking, no data collection, no censorship, no surveillance, no propaganda, no external controls whatsoever. Web420 offers this experience by providing a platform where apps (DWAs) can ***scale infinitely without any cost to the operator*** because they don't require traditional hosting infrastructure. 
 
