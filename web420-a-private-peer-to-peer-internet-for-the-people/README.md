@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img src="assets/lion.svg" width="350" align="left" style="margin: 0 1em 1em 0;">
+<img src="assets/lion.svg#play" width="350" align="left" style="margin: 0 1em 1em 0;">
 
 With the release of <a href="https://github.com/futurehood/DeCent-Messenger">DeCent Messenger</a>, the world's first Decentralized Web Application (DWA), Web420 is now available for experimentation as a usable prototype.
 
@@ -14,7 +14,7 @@ This is the Internet humanity deserves.
 
 ## Overview
 
-<img src="web420-nu.svg" width="300" align="right">
+<img src="web420-nu.svg#play" width="300" align="right">
 
 Web420 achieves all of this by relying on a software stack which provides user access through two key functionalities. Self-hosted DCNT servers offer users the ability to:
 
@@ -27,7 +27,7 @@ Because the technology driving the experience is simple, reliant on Internet sta
 
 <img src="assets/decent-messenger-install-4.png" width="350" align="left" style="margin: 1em 1em 0 0 ;">
 
-Web420 differs from existing decentralized overlay networks, like Freenet, I2p, or Tor.
+Web420 differs from existing decentralized networks, like Freenet, I2p, or Tor.
 
 These networks focus on building a global network of interconnected nodes which serve as an overlay to the Internet. The common emphasis of all of these projects is anonymity, and then privacy through anonymity. Though it happens a bit differently on each, essentially all of these systems achieve anonymity by passing requests through the overlay network to obfuscate the connection metadata.
 
@@ -45,7 +45,7 @@ Furthermore, Web420 is friendly, easy-to-use, and accessible by everyone. It jus
 
 <img src="assets/blaze.svg#play" width="250" align="right">
 
-Web420 fundamentally restructures the Internet to put users first and level the playing field for developers. Here, users can finally connect with one another with peace of mind, knowing that their interactions are absolutely private. Here, a mountain of venture capital is no longer a prerequisite for a successful web startup - now anyone can launch an application that serves a staggering number of users without even considering the infrastructure, let alone paying for it. This is beyond transformative - it's a complete paradigm shift.
+Web420 fundamentally restructures the Internet to put users first and level the playing field for developers. Here, users can finally connect with one another with peace of mind, knowing that their interactions are absolutely private. Here, a mountain of venture capital is no longer a prerequisite for a successful web startup - now anyone can launch an application that serves a staggering number of users without even considering infrastructure, let alone paying for it. This is beyond transformative - it's a complete paradigm shift.
 
 As the ecosystem continues to grow, JavaScript libraries will emerge to provide frameworks for future-forward concepts like distributed storage and distributed computing systems, making it drop-in-simple for developers to replace dependence on traditional or cloud-based storage and computing with decentralized Web420 equivalents. There will soon be little rationale for building out new applications using traditional architecture in all but the most niche circumstance. This is the future that's coming, a DCNT Internet.
 
