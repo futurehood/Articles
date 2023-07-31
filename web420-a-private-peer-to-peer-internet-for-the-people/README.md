@@ -43,7 +43,7 @@ Furthermore, Web420 is accessible by everyone. It just works with the rest of th
 ## A Future So Bright, It's Blazing 🔥
 
 
-<img src="blaze.svg#play" width="250" align="right">
+<img src="blaze.svg#play" width="300" align="right">
 
 Web420 fundamentally restructures the Internet to put users first and level the playing field for developers. Here, users can finally connect with one another with peace of mind, knowing that their interactions are absolutely private. Here, a mountain of venture capital is no longer a prerequisite for a successful web startup - now anyone can launch an application that serves a staggering number of users without even considering the infrastructure, let alone paying for it. This is beyond transformative - it's a complete paradigm shift.
 
