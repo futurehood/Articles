@@ -25,8 +25,7 @@ Because the technology driving the experience is simple, reliant on Internet sta
 
 ## Something Completely New
 
-<img src="assets/decent-messenger-install-4.png" width="350" align="right" style="margin: 0 0 1em 1em;">
-
+<img src="assets/decent-messenger-install-4.png" width="350" align="left" style="margin: 1em 1em 0 0;">
 
 Web420 differs from existing decentralized overlay networks, like Freenet, I2p, or Tor.
 
@@ -42,11 +41,7 @@ There's no limit or restriction on what DWAs can do. Communications apps, social
 
 Furthermore, Web420 is friendly, easy-to-use, and accessible by everyone. It just works with the rest of the Internet. Users don't need to be running a personal DCNT server to connect with someone who is. The non-user can use a DWA to connect to another user's DCNT server without running their own instance. The resulting peer-to-peer connection is a private Web420 network.
 
-
-
-
 ## A Future So Bright, It's Blazing 🔥
-
 
 <img src="blaze.svg#play" width="250" align="right">
 
@@ -54,7 +49,7 @@ Web420 fundamentally restructures the Internet to put users first and level the 
 
 As the ecosystem continues to grow, JavaScript libraries will emerge to provide frameworks for future-forward concepts like distributed storage and distributed computing systems, making it drop-in-simple for developers to replace dependence on traditional or cloud-based storage and computing with decentralized Web420 equivalents. There will soon be little rationale for building out new applications using traditional architecture in all but the most niche circumstance. This is the future that's coming, a DCNT Internet.
 
-Web420 doesn't just have the potential to replace most of the existing corporate Internet, it has the potential to burn most of the existing Internet to the ground.
+Web420 doesn't just have the potential to replace most of the existing Internet, it has the potential to burn most of the existing Internet to the ground.
 
 Beware the fumes, they're toxic.
 
