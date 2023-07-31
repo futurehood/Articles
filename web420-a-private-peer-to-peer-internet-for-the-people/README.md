@@ -14,7 +14,7 @@ This is the Internet humanity deserves.
 
 ## Overview
 
-<img src="web420-nu.svg#play" width="300" align="right">
+<img src="assets/web420-nu.svg#play" width="300" align="right">
 
 Web420 achieves all of this by relying on a software stack which provides user access through two key functionalities. Self-hosted DCNT servers offer users the ability to:
 
@@ -33,13 +33,13 @@ These networks focus on building a global network of interconnected nodes which 
 
 Web420 works differently, almost diametrically so. Instead of consisting (primarily) of a global network, Web420 is composed of infinite, smaller, ephemeral private networks that pop in and out of existence as needed. These networks are as big as required; they can exist between two devices, or two million devices. The can grow, shrink, disappear, and re-emerge. They originate in, and are accessed solely through web browsers, over WebRTC. DCNT servers don't connect to other DCNT servers at all. They listen for requests from remote DWAs and proxy them to relevant local DWAs.
 
-In essence, this allows DCNT server users to turn an IP address or domain name into the modern equivalent of a ***phone number***.
+In essence, this allows DCNT server users to turn an IP address or domain name into the modern equivalent of a reachable, multipurpose ***phone number***.
 
-DCNT users can share their address with trusted contacts they intend to connect with, and then using DWAs, the two users can directly connect with each other in their browsers, unassisted by third parties and completely privately.
+DCNT users can share their address with trusted contacts they intend to connect with, and then using DWAs, the two users can directly connect with each other in their browsers, unassisted by third parties and completely privately. With the right DWA listening for requests, this system could easily act as a phone, receiving voice calls and text messages privately. And that's just the start.
 
 There's no limit or restriction on what DWAs can do. Communications apps, social networks, microblogging, multiplayer gaming, file sharing, streaming services - all of these types of applications can easily be built on Web420 ***right now***.
 
-Furthermore, Web420 is friendly, easy-to-use, and accessible by everyone. It just works with the rest of the Internet. Users don't need to be running a personal DCNT server to connect with someone who is. The non-user can use a DWA to connect to another user's DCNT server without running their own instance. The resulting peer-to-peer connection is a private Web420 network.
+Furthermore, Web420 is friendly, easy-to-use, and accessible by everyone. It just works with the rest of the Internet. Users don't need to be running a personal DCNT server to connect with someone who is. The non-user can use a DWA to connect to another user's DCNT server without running their own instance. The resulting peer-to-peer connection between browsers is a private Web420 network.
 
 ## A Future So Bright, It's Blazing 🔥
 
