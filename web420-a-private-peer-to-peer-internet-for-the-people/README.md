@@ -60,5 +60,3 @@ Web420 offers the promise of a pure, modern Internet, rooted in genuine connecti
 The project is still in the early stages, but things are moving fast with no intention of stopping until the work is done. We need this.
 
 If you'd like to get involved or support the work, <a href="https://github.com/futurehood/DeCent">help me!</a>
-
-<a href="https://github.com/futurehood/articles/tree/main/web420-a-private-peer-to-peer-internet-for-the-people">View the original article on Github</a>
